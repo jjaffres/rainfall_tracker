@@ -4,9 +4,10 @@
 % (1) C&R Consulting, Australia (http://candrconsulting.com.au/).
 % (2) Central Queensland University, Australia.
 %
-% Citation: Jaffrés, J.B.D. and Gray, J.L. (2023) Chasing rainfall: estimating
-%           event precipitation along tracks of tropical cyclones via reanalysis 
-%           data and in-situ gauges.
+% Citation: Jaffrés, J.B.D., Gray, J.L. (2023) Chasing rainfall: estimating
+%           event precipitation along tracks of tropical cyclones via reanalysis
+%           data and in-situ gauges. Environ. Model. Software, 167: 105773,
+%           https://doi.org/10.1016/j.envsoft.2023.105773,
 %
 % This script extracts the rainfall within the chosen distance from the centre of 
 %       each position along the track of all individual atmospheric low-pressure systems (ALPSs).
@@ -29,7 +30,7 @@
 % This script is distributed in the hope that it will be useful, but WITHOUT
 % ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
 % FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%     J. Jaffrés & J. Gray - 3 Jan 2023
+%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%     J. Jaffrés & J. Gray - 19 Jul 2023
 clear
 
 %% Pre-run modifications.
